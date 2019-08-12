@@ -1,0 +1,45 @@
+header.jumbotron, footer {
+	background-color: #546a7b;
+	color: #fef9ff;
+	height: 100px;
+	text-align: center;
+	padding: 30px 10px 20px 10px;
+	
+}
+nav .btn {
+	background-color: #5b7d87;
+	color: #fef9ff;
+	padding: 8px;
+	border: thin solid #0d1f2d;
+	text-decoration: none;
+	text-align: center;
+	display: inline-block;
+	margin: 20px;
+	width: 100px;
+	/*float: left;*/
+}
+
+nav a:visited {
+	color: #e4c3ad;
+}
+
+nav a:hover {
+	background-color: #fef9ff;
+	color: #5b7d87;
+}
+
+nav a:active {
+	font-weight: bold:
+}
+
+header {
+	font-family: 'Comic Sans MS'
+	}
+
+nav {
+	background-color: gold;
+	}
+
+body {
+	background-color: #e4c3ad;
+	}
